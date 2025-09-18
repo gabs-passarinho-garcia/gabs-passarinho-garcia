@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<a href="https://app.daily.dev/gabrielpassarinhogarcia"><img src="https://api.daily.dev/devcards/v2/rvAQUqLOwvMiB4chQRj3J.png?type=default&r=25n" width="356" alt="Gabriel Passarinho Garcia's Dev Card"/></a>
 <!--
 **gabs-passarinho-garcia/gabs-passarinho-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
