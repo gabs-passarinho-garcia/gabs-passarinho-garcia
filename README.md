@@ -4,7 +4,7 @@
 
 ---
 
-### Olá, eu sou o Gabriel Garcia (Gabs) 👋
+### Olá, eu sou o Gabriel Passarinho Garcia (Gabs) 👋 
 
 Sou um Engenheiro de Software Sênior que constrói tanto sistemas complexos quanto narrativas épicas. Engenheiro da Computação formado com distinção pela **Unicamp**, minha paixão é encontrar soluções elegantes e robustas para problemas do mundo real.
 
@@ -20,13 +20,13 @@ Movido pela minha fé em Cristo, aplico princípios de excelência, integridade 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://bun.sh/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/B/bun-logo-623234415C-seeklogo.com.png" alt="bun" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" alt="bun" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg" alt="nestjs" width="40" height="40"/>
   </a>
   <a href="https://elysiajs.com/" target="_blank" rel="noreferrer">
-      <img src="https://elysiajs.com/assets/logo.svg" alt="elysia" width="40" height="40"/>
+      <img src="https://elysiajs.com/assets/elysia.svg" alt="elysia" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -40,8 +40,8 @@ Movido pela minha fé em Cristo, aplico princípios de excelência, integridade 
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
   </a>
 </p>
 
@@ -64,8 +64,12 @@ Quando não estou codando, estou em outras aventuras:
 ### 📫 Vamos nos Conectar!
 
 <p align="left">
-<a href="https://linkedin.com/in/gabrielpassarinhogarcia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielpassarinhogarcia" height="30" width="40" /></a>
-<a href="mailto:gabrieldefreitasgarcia@outlook.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/microsoft-outlook.svg" alt="gabrieldefreitasgarcia" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/gabrielpassarinhogarcia" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielpassarinhogarcia" height="30" width="40" />
+  </a>
+  <a href="mailto:gabrieldefreitasgarcia@outlook.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="outlook" height="30" width="40" />
+  </a>
 </p>
 
 **"Buscando a verdade no código e nas histórias."**
