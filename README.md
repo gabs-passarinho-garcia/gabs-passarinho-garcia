@@ -1,8 +1,6 @@
 # Gabriel Passarinho Garcia | Senior Backend Engineer
 
-<a href="https://app.daily.dev/gabrielpassarinhogarcia">
-  <img src="https://api.daily.dev/devcards/v2/rvAQUqLOwvMiB4chQRj3J.png?type=default&r=25n" width="356" alt="Gabriel Passarinho Garcia's Dev Card"/>
-</a>
+<a href="https://app.daily.dev/gabrielpassarinhogarcia"><img src="./devcard.png" width="356" alt="Gabriel Passarinho Garcia's Dev Card"/></a>
 
 ---
 
